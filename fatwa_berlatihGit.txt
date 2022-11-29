@@ -1,3 +1,4 @@
 Nama : fatwa reza rizqika
 stack : frontend
 hobi : sepakbola
+Deskripsi: isi kenapa anda suka programing
