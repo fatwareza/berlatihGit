@@ -1,2 +1,3 @@
 Nama : fatwa reza rizqika
 stack : frontend
+hobi : sepakbola
